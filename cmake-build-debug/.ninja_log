@@ -1,6 +1,0 @@
-# ninja log v6
-5	24	1761903646484785168	build.ninja	bcdde7d5616cc531
-5	24	1761903646483785159	/home/evanlechenadec/Programmation/PubliGit/DRNA/cmake-build-debug/cmake_install.cmake	bcdde7d5616cc531
-1	75	1761841551188663211	CMakeFiles/DRNA.dir/main.c.o	36cfad55ec5f8311
-75	95	1761841551262015080	DRNA	1d63e9cb2c43ac15
-12	28	1761851839325258094	CMakeFiles/DRNA.dir/aaah.c.o	a3445f7e26f9466
